@@ -1,0 +1,14 @@
+Installations
+
+  npm install apollo-server graphql
+
+Run server
+    node index.js
+
+    npx nodemon index.js
+
+    npm install uuid
+
+
+minuto 6:43
+https://www.youtube.com/watch?v=3vldzoNRz-8
