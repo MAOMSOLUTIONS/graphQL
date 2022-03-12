@@ -1,2 +1,2 @@
 # graphQL
-POC GraphQL
+POC GraphQL usign NODEJS, GraphQL and Apollo Server
